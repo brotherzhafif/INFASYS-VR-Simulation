@@ -1,0 +1,111 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+
+# Rider
+.idea/
+*.sln.iml
+
+# Unity generated files
+*.asset
+*.meta
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Files built by Visual Studio
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*~
+*.swp
+*.swo
+*.orig
+
+# IDE specific files
+.project
+.classpath
+.c9/
+
+# OS X
+.AppleDouble
+.LSOverride
+
+# IntelliJ
+*.iml
+
+# Gradle
+.gradle
+build/
+
+# Local environment variables
+.env
+.env.local
+
+# Node modules (if using node-based tools)
+node_modules/
+npm-debug.log
+
+# Package manager
+/[Pp]ackages/*
+!/[Pp]ackages/manifest.json
+!/[Pp]ackages/packages-lock.json
+!*/[Pp]ackages/**/.gitkeep
+
+# Burst debug information
+[Ii]nfasys\ [Gg]ame_[Bb]urst[Dd]ebug[Ii]nformation_[Dd]o[Nn]ot[Ss]hip/
+
+# Visual Studio Code cache
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Windows
+Desktop.ini
+ehthumbs.db
+
+# Project specific
+*.log
+*.stack
+crash.log*
