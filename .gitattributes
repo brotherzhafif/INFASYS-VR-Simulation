@@ -1,0 +1,6 @@
+# 1. Sembunyikan semuanya dulu (termasuk folder sistem Unity & Packages)
+* linguist-vendored
+
+# 2. Aktifkan kembali HANYA folder script kodinganmu
+# Sesuaikan dengan path folder script kamu
+Assets/Scenes/Scripts/** -linguist-vendored
